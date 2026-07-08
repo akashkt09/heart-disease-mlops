@@ -3,7 +3,6 @@
 
 import pandas as pd
 from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 
 NUMERIC_FEATURES = ['age', 'trestbps', 'chol', 'thalach', 'oldpeak']
