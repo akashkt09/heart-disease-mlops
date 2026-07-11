@@ -1,5 +1,8 @@
 # heart-disease-mlops
 
+## Short Video of the pipeline execution
+https://drive.google.com/file/d/1MhbkQ0_a2Z-_CJTDWJIY0vbvNyxxJMFG/view?usp=share_link
+
 ## Deployed API — Access Instructions (Local Testing)
 
 This project does not expose a public API URL. It is deployed and tested locally
